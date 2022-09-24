@@ -1,0 +1,24 @@
+{
+  "name": "namaz-vakti",
+  "version": "1.0.0",
+  "description": "Do NOT overwrite service-worker.js HERE! It is generated manually. Automatically generated service worker is erroneous!",
+  "main": "precache-manifest.22de8ae463b51ebaf243fdeedcf1c875.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sw": "npx workbox-cli generateSW workbox-config.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/canbax/namaz-vakti.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/canbax/namaz-vakti/issues"
+  },
+  "homepage": "https://github.com/canbax/namaz-vakti#readme",
+  "devDependencies": {
+    "workbox-cli": "^6.5.4"
+  }
+}
